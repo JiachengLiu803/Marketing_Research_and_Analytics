@@ -23,7 +23,7 @@ The general workflow is as follows:
 # Fourth,
   We determined the number of clusters by created a **elbow plot of the SSE values**, combining the results in **Occam's razor** we found that K=3 would be the best option. 
   
-# Fifth,
+# Finally,
   Combining with other factors and external data that may not provided, we concluded the top 5 best performance keywords:
 
 1. +supply +chain +management +masters (MSC)
